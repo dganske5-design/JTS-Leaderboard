@@ -1,0 +1,8 @@
+Place your JTS logo here, named exactly:  jts-logo.png
+
+Requirements:
+- PNG format preferred
+- Works best on a dark background (transparent background ideal)
+- Recommended size: 200x200px or larger (it renders at 34x34px in the nav)
+
+If this file is missing, the nav will show "JTS" text as a fallback automatically.
